@@ -9,7 +9,7 @@ In order to set up a microservice exposing a fraud detection POST endpoint, foll
 ```
 git clone https://github.com/cloudacademy/fraud-detection.git 
 ```
-2. [download the dataset](https://clouda-datasets.s3.amazonaws.com/creditcard.csv.zip) that will be used to train a transaction classifier. Unzip it and put the content (creditcard.csv) under folder data
+2. [download the dataset](https://clouda-labs-assets.s3-us-west-2.amazonaws.com/fraud-detection/creditcard.csv.zip) that will be used to train a transaction classifier. Unzip it and put the content (creditcard.csv) under folder data
 
 3. create a virtual environment (named e.g. fraud-detection), activate it and retrieve all needed python packages
 ```
